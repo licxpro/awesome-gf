@@ -22,7 +22,7 @@ Awesome projects using [GoFrame](https://github.com/gogf/gf).
 - [hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
 - [Go-ops](https://github.com/i4de/go-ops) - Go-ops是面向云平台系统, 基于 PaaS 技术支持客户实现 DevOps 解决方案的平台。提供完善作业管理、配置管理、定期调度、健康巡检等模块，助力运维人员快速、低成本、自动化的管理配置运维系统。
 - [IOTFast](https://github.com/xiaodingding/iotfast) - IOTFast 一个基于goframe、vue-next-admin的物联网平台。
-
+- [miaoyu-admin](https://gitee.com/licxpro/miaoyu) - 基于GoFrame v2 开发的通用后台权限管理系统。
 ## Libraries and Plugins
 
 - [polaris](https://github.com/gogf/polaris) - Polaris with GoFrame.
